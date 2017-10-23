@@ -7,10 +7,14 @@
 	</head>
 	<body>
 		
-		<marquee><header id="header">Welcome to my Webpage! </header></marquee>
-		</div>
+		<marquee
+			direction="Right"
+			scrollamount="14">
+			<header id="header">Welcome to my Webpage!</header>
+		</marquee>
+		
 		<center><audio src="La Vie en Rose.mp3" controls loop></audio></center>
-
+		
 		<p>My name is Elsy, I'm 23 at the moment and super excited to be the University of Houston. This campus is huge!<wbr>
 			At first it was overwhelming at first but trying to get into different clubs and meeting new people I've grown used to it. 
 			Im currently in the Marines ROTC program, I joined the comics club and the biking club as well and I have friends who go to 
@@ -20,13 +24,21 @@
 			related fields wouldn't get me anywhere. To a certain extent I regret not sticking with what I grew up doing
 			but at the same time I'm happy with the way victories and hardships have shaped me.</p>
 			
-			<p>Interested in learning more about the University of Houston? 
-				<id="UH button"></id>Click <a href="http://www.uh.edu/" target="_blank">here.</a> I encourage you! <br />
-			Interested in a career in game development or programming? Click <a href="http://www.uh.edu/technology/" target="_blank">here.</a> </p>
+			
+		<div class="button" >
+					<span><a href="http://www.uh.edu/" target="_blank">Want to learn More about UH?</a></span></button> 
+		</div>	
+			
+				
+		<div class="button2">
+					<span><a href="http://www.uh.edu/technology/" target="_blank">Interested in Gaming Design?</a></span></button>
+		</div>	
+
+
 <br />
 		<h2>What am I doing now & what wil I do in the future?</h2>
 			<p>As of now, I'm a registered dental assistant and part time musician. I also love illustrating 
-				and following people like Qiniiart (<a href="https://www.instagram.com/qinniart/" target="_blank">Here</a> is a link
+				and following people like Qiniiart (<a href="https://www.insc'[tagram.com/qinniart/" target="_blank">Here</a> is a link
 				to her instagram) and Variant Comic Book Covers (<a href="http://variantcomicscovers.tumblr.com/" target="_blank">Here</a> is a link the their tumblr page.)
 			<br />I find it hard to express <i>how</i> excited I am for what I will be doing in the future. I can't wait, I want to graduate and 
 				find a job in what I dreamed I could be doing some day. Even before I chose this career I would have sketchbooks full of random
@@ -97,13 +109,16 @@
 										
 							<center><h4> Do you need a band for your next event? Or 
 								 Have any questions?</h4></center> 
-
+							<ul> <caption>We can play at:</caption>
+								<li>Private Events</li>
+								<li>Special Events</li>
+								<li>Church Events</li>
+							</ul>
 					
 							<!--<center><a href="./contactme.html">Contact Me</a></center>-->
 
 							<!--<p style="font-size:13px;text-align:center"></p>-->
-								<center><a href="mailto: elsygomez923@gmail.com">
-								Email Me :)</a></center>
+								<center><a href=mailto:"elsygomez923@gmail.com">Email Me</a></center>
 	
 <br />
 <br />							
@@ -117,9 +132,8 @@
 			<p>In size and age! In total, I have about eleven siblings. Three are older than I (on my moms side); four are younger
 			than I (we are my mom and dads kids). The other three are youngsters from my stepmom and dads side. One of my sisters 
 			is also due around March or April of next year! It's a girl! And we all can't wait to see what she'll be like 
-			(I honestly think she will come out exactly like her moma -.-) and what the future has in store for her.</p>
-			
-			<p>But hey, Would you like to have a small soccer team as well?!
+			(I honestly think she will come out exactly like her moma -.-) and what the future has in store for her.
+			<br />But hey, Would you like to have a small soccer team as well?!
 				Take a look at the table below, these are just my humble (unprofessional) 
 				opinions on what I feel a parent will go through and need!</p>
 			
